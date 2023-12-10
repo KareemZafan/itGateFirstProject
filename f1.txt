@@ -1,5 +1,3 @@
 this is a new text file
 
-
-
-adding new message, "MY messsage " 
+You shall need to learn more about Git
