@@ -5,3 +5,4 @@ ls = ["Ahmed", "Mahmoud", "Kareem", "Osama", "Ali"]
 
 for i in ls: 
     print(i)
+    
