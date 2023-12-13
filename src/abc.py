@@ -6,6 +6,3 @@ a = 10 - b
 a = b + 50
 print(a)
 
-
-print("Yes")
-
